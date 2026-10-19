@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>NEXUS - AI Cyber Safety by Xyell Nex Gen</title>
+<style>
+body{margin:0;font-family:'Segoe UI',sans-serif;background:#020d1f;color:white}
+header{text-align:center;padding:60px 20px;background:linear-gradient(135deg,#020d1f,#0a2a5e)}
+header h1{font-size:48px;color:#ffcc00;letter-spacing:2px}
+.shield{width:160px;height:180px;margin:20px auto;background:linear-gradient(#0d2a5e,#102e6b);border:3px solid gold;border-radius:20px 20px 50px 50px;display:flex;align-items:center;justify-content:center;font-size:80px}
+.badge{border:1px solid gold;padding:10px 30px;border-radius:30px;display:inline-block;color:#7ec8ff;margin-top:10px}
+.features{display:flex;gap:20px;justify-content:center;padding:40px;flex-wrap:wrap}
+.card{background:#0a1f44;border:1px solid #ffcc0080;border-radius:15px;padding:25px;width:280px;text-align:center}
+.card h3{color:#ffcc00}
+.btn{background:gold;color:#020d1f;padding:14px 35px;border-radius:30px;font-weight:bold;text-decoration:none;display:inline-block;margin-top:20px}
+footer{text-align:center;padding:30px;background:#010a1a;color:#8ab4f8;font-size:14px}
+</style>
+</head>
+<body>
+<header>
+<h2 style="color:gold;letter-spacing:4px">Xyell Nex Gen Technology</h2>
+<h1>NEXUS IS LIVE!</h1>
+<div class="shield">🛡️</div>
+<div class="badge">VAJRA PRO Early Access</div>
+<p style="color:#7ec8ff;margin-top:15px">AI-POWERED CYBER SAFETY SYSTEM</p>
+<p style="max-width:600px;margin:20px auto">Protecting India's Digital Future. Built under BHAVYA OS Ecosystem.</p>
+<a class="btn" href="#waitlist">Join Waitlist - Free Beta</a>
+</header>
+
+<div class="features">
+<div class="card">
+<h3>🧠 AI Scam Protection</h3>
+<p>Real-time detection & neutralization of phishing, fraud, and scam attempts.</p>
+</div>
+<div class="card">
+<h3>☁️ Secure Cloud Storage</h3>
+<p>Encrypted, secure storage for data and digital assets.</p>
+</div>
+<div class="card">
+<h3>✅ UPI Safety Shield</h3>
+<p>Advanced safeguards for digital transactions & payment protection.</p>
+</div>
+</div>
+
+<section id="waitlist" style="text-align:center;padding:50px;background:#081a38">
+<h2 style="color:gold">Get Early Access</h2>
+<p>We are in Beta. Join 100 early users from Odisha & India.</p>
+<form>
+<input type="email" placeholder="Enter your email" style="padding:12px;border-radius:25px;border:none;width:250px">
+<button class="btn" style="border:none;cursor:pointer;margin-left:10px">Join Now</button>
+</form>
+<p style="margin-top:20px;font-size:13px">No spam. No payment needed for Beta. Made in India 🇮🇳</p>
+</section>
+
+<footer>
+<p>Powered by Xyell Nex Gen Technology • India's AI-Powered Cyber Safety System<br>
+Protecting India's Digital Future • Now in Early Access<br>
+Contact: Xyell • Jagatsinghpur, Odisha | BHAVYA OS Ecosystem</p>
+</footer>
+</body>
+</html>
